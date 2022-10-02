@@ -12,6 +12,9 @@ This directory include the tables containing detailed breakdown of each describe
 - prevalence_by_race_table.tsv: Breakdown of the prevalence of APO in each race/ethnic group in each high-risk subgroups
 - omission_by_race_table.tsv: Breakdown of the prevalence of APO in each race/ethnic group if these high-risk subgroups are omitted
 
+## pairwise_prevalence_comparison
+---
+A table that compares the pairwise APO prevalence among each racial/ethnic group.
 
 ## combined_disparity_df.csv
 ---
