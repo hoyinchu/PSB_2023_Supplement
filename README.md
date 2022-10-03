@@ -3,20 +3,20 @@
 Supplementary Material for the PSB 2023 Submission "Using Association Rules to Understand the Risk of Adverse Pregnancy
 Outcomes in a Diverse Population"
 
-## supplementary_compressed_tables
+## supplementary_compressed_tables (Contains Supp. Table S3-S6)
 ---
 This directory include the tables containing detailed breakdown of each described high-risk subgroups in the main text. All numbers presented in these tables are a subset of the numbers from combined_disparity_df.csv. They are included here for ease of understanding when reading the main text.
 
-- subgroup_risk_table.tsv: The confidence, LR+, fisher p value and gini coefficient (disparity measure) associated with each high risk subgroup
-- subgroup_omitted_table.tsv: Includes metrics relating to change in APO prevalence / disparity if these high-risk subgruoups are omitted from the cohort
-- prevalence_by_race_table.tsv: Breakdown of the prevalence of APO in each race/ethnic group in each high-risk subgroups
-- omission_by_race_table.tsv: Breakdown of the prevalence of APO in each race/ethnic group if these high-risk subgroups are omitted
+- (Supplementary Table S3) subgroup_risk_table.tsv: The confidence, LR+, fisher p value and gini coefficient (disparity measure) associated with each high risk subgroup
+- (Supplementary Table S4) prevalence_by_race_table.tsv: Breakdown of the prevalence of APO in each race/ethnic group in each high-risk subgroups
+- (Supplementary Table S5) subgroup_omitted_table.tsv: Includes metrics relating to change in APO prevalence / disparity if these high-risk subgruoups are omitted from the cohort
+- (Supplementary Table S6) omission_by_race_table.tsv: Breakdown of the prevalence of APO in each race/ethnic group if these high-risk subgroups are omitted
 
-## pairwise_prevalence_comparison
+## (Supplementary Table S2) pairwise_prevalence_comparison
 ---
 A table that compares the pairwise APO prevalence among each racial/ethnic group.
 
-## combined_disparity_df.csv
+## (Supplementary Table S1) combined_disparity_df.csv
 ---
 
 Column name explanations:
